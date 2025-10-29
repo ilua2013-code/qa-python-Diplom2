@@ -1,0 +1,1 @@
+# qa-python-Diplom2
